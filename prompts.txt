@@ -1,0 +1,26 @@
+### PROMPTS USED IN ASSIGNMENT 2 (ZEOTAP)
+
+> ⚠️ This file includes only **query-specific prompts**, excluding any prompts related to writing reports or generation assistance, in accordance with academic integrity.
+
+1. "How do I connect to ClickHouse using `clickhouse-connect` in Python?"
+2. "How to insert a cleaned Pandas DataFrame into a ClickHouse table?"
+3. "How to handle missing values in Pandas before inserting to ClickHouse?"
+4. "How to parse a JWT token with clickhouse-connect?"
+5. "How to detect binary columns (0/1) and fill missing values with mode?"
+6. "How to preview top 100 rows of a ClickHouse table using `clickhouse-connect`?"
+7. "What is the correct format for inserting data into a ClickHouse table via `insert_df`?"
+8. "What does ClickHouse error code 62 mean?"
+9. "How do I query ClickHouse for all tables in a specific database?"
+10. "How to use Docker to run ClickHouse with and without a password?"
+11. "How to build a query for exporting specific columns from ClickHouse?"
+12. "How to enable column selection using checkboxes in HTML + Flask?"
+13. "How to detect when all checkboxes are selected or deselected via JavaScript?"
+14. "How to parse and insert CSVs with missing columns using Pandas?"
+15. "How to make ClickHouse table creation dynamic based on uploaded CSV headers?"
+16. "How to safely fallback from JWT to password if JWT is missing?"
+17. "How to test ClickHouse inserts and verify row counts?"
+18. "What are best practices for using `secure=True` with ClickHouse Cloud?"
+19. "How to validate form inputs in Flask before connecting to ClickHouse?"
+20. "How to display dynamic flash messages on the same page after form submit?"
+
+> These prompts were used strictly to guide implementation logic for ingestion, connection, previewing, and authentication flows only. All design and documentation were authored independently.
