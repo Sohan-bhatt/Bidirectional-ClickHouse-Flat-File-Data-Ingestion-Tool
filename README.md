@@ -135,7 +135,7 @@ INSERT INTO ontime SELECT * FROM s3(...) SETTINGS max_insert_threads = 40;
   - Preview data
   - Real-time connection
 
-### 🔗 [Video Demo Here](link-to-video)
+### 🔗 [[Video Demo Here](link-to-video)](https://drive.google.com/file/d/1T4Rzoma4GpTrMVzElKgZPyBmi6nM6Gn1/view?usp=drivesdk)
 
 ---
 
